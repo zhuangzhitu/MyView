@@ -1,6 +1,7 @@
 # MyView
-自定义View初步
-**自定义View的过程**                 
+自定义View初步             
+
+**自定义View的过程**---zhangzhihao                 
 1.自定义View的属性         
 2.在构造方法中获得我们的属性     
 3.[重写onMeasure方法]
